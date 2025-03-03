@@ -1,70 +1,46 @@
-# Getting Started with Create React App
+# React Portfolio
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+**Role:** Full Stack Developer, UX/UI  
+**Tech Stack:** React, Dashboard UI, Tailwind CSS  
+**Highlights:** A React-based portfolio showcasing selected projects.
 
-## Available Scripts
+![Portfolio Screenshot]
+![rthumb](https://github.com/user-attachments/assets/6314d9da-0284-4ecc-bc60-4760fa6c7ed3)
+![light-mode](https://github.com/user-attachments/assets/6300a080-cfa8-40ae-9351-50582eee4654)
 
-In the project directory, you can run:
 
-### `npm start`
+This React portfolio serves as a structured, interactive way to present my selected projects, technical skills, and professional insights. Designed with Tailwind CSS, the project emphasizes React-based interactivity, grid-based organization, and a minimalist aesthetic to provide a practical and efficient user experience.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+[See the live website](https://www.arianesouza.com)  
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Technologies & Skills
+- **React**  
+- **Dashboard UI**  
+- **UX/UI**  
+- **Tailwind CSS**
 
-### `npm test`
+## Key Features
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- **Dashboard-Style UI:** Organized sections for projects, skills, and personal insights.
+- - **Dark/Light Mode Toggle:** Allows users to switch between dark and light themes for personalized user experience.
+- **Tailwind CSS:** For a sleek, responsive, and modern design.
+- **React-Based Grid Layout:** Built to practice structured component placement.
+- **Smooth Scroll Navigation:** Enhances UX with seamless transitions.
+- **Lucide & React Icons:** Adds clean and modern UI elements.
+- **Multi-Page Website:** Navigate through different sections of the portfolio with ease.
+- **Multi-Language Support:** The portfolio is structured to support multiple languages, enabling a wider reach.
 
-### `npm run build`
+## UX/UI
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- **Minimalist Design:** A clean, professional aesthetic for readability and focus.
+- **Compact, Collapsible Menu:** Keeps navigation intuitive and unobtrusive.
+- **Structured Information Flow:** Ensures clarity in presenting skills and work approach.
+- **Interactive Project Showcase:** Enables recruiters to explore projects effortlessly.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+---
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### Getting Started
 
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Arireal/React-Portfolio.git
