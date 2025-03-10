@@ -9,10 +9,10 @@ const Hero = ({ darkMode }) => {
           <h1 className="text-4xl md:text-5xl font-bold mb-4">
             Hi, I'm <span className="text-blue-500">Ariane Souza</span>
           </h1>
-          <h2 className="text-2xl md:text-3xl mb-6">Senior UX/UI Developer</h2>
+          <h2 className="text-2xl md:text-3xl mb-6">Senior Frontend Engineer & UX/UI Designer</h2>
           <p className="text-lg mb-8 leading-relaxed max-w-xl">
-          I create visually appealing and user-centric interfaces, combining design and development 
-          skills to deliver intuitive, accessible web experiences.
+          with 7+ years in art direction and 5+ years in web design. Passionate about crafting seamless digital experiences, 
+          blending aesthetics with functionality. Skilled in modern frontend frameworks, UX research, and branding.
           </p>
           <div className="flex space-x-4">
             <a href="#contact" className={`px-6 py-3 rounded-lg bg-blue-600 text-white hover:bg-blue-700 transition-colors`}>

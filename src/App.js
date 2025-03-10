@@ -54,7 +54,6 @@ const AppContent = ({ darkMode, toggleDarkMode }) => {
               <About darkMode={darkMode} />
               <Skills darkMode={darkMode} />
               <Projects darkMode={darkMode} />
-              <Experience darkMode={darkMode} />
               <Contact darkMode={darkMode} />
             </>
           }
