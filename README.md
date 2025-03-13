@@ -1,39 +1,52 @@
 # React Portfolio
 
 **Role:** Full Stack Developer, UX/UI  
-**Tech Stack:** React, Dashboard UI, Tailwind CSS  
 **Highlights:** A React-based portfolio showcasing selected projects.
 
-![Portfolio Screenshot]
+## Tech Stack:
+- **Frontend**: React, Tailwind CSS, Grid UI, React Hooks (useState)
+- **Design & UX**: UX/UI Design, Mobile-First Approach
+- **Other**: Recharts, React Icons
+
+## Overview:
+
+This React portfolio is a dynamic showcase of my work, technical skills, and professional insights, designed to provide an interactive and visually appealing experience. The project leverages React, Tailwind CSS, and grid-based organization to create a dashboard-like layout with smooth navigation. It also uses React hooks, such as useState, to manage dynamic content updates and enhance user interactions.
+
 ![rthumb](https://github.com/user-attachments/assets/6314d9da-0284-4ecc-bc60-4760fa6c7ed3)
 ![light-mode](https://github.com/user-attachments/assets/6300a080-cfa8-40ae-9351-50582eee4654)
 
 
-This React portfolio serves as a structured, interactive way to present my selected projects, technical skills, and professional insights. Designed with Tailwind CSS, the project emphasizes React-based interactivity, grid-based organization, and a minimalist aesthetic to provide a practical and efficient user experience.
+## Features:
+- **Dashboard-Style UI:**
+A structured layout for easy navigation, with sections for projects, skills, and personal insights.
+
+- **Responsive Design:**
+Built using Tailwind CSS for a modern and sleek look that adapts to all screen sizes.
+
+- **React-Based Grid Layout:**
+Organizes content efficiently using a grid system for improved structure and usability.
+
+- **Smooth Scroll Navigation:**
+Enables users to transition seamlessly between sections of the portfolio.
+
+- **React Hooks (useState):**
+Handles dynamic component states for a more interactive experience, including managing collapsible menu states and project interactions.
+
+- **Interactive Project Showcase:**
+Provides easy access to project details, allowing recruiters to explore my work effortlessly.
+
+- **Lucide & React Icons:**
+Adds clean, modern UI elements for an engaging visual experience.
+
+- **Recharts Integration:**
+Displays my skills and technical abilities in a visual, interactive way.
 
 [See the live website](https://www.arianesouza.com)  
 
-## Technologies & Skills
-- **React**  
-- **Dashboard UI**  
-- **UX/UI**  
-- **Tailwind CSS**
-
-## Key Features
-
-- **Dashboard-Style UI:** Organized sections for projects, skills, and personal insights.
-- - **Dark/Light Mode Toggle:** Allows users to switch between dark and light themes for personalized user experience.
-- **Tailwind CSS:** For a sleek, responsive, and modern design.
-- **React-Based Grid Layout:** Built to practice structured component placement.
-- **Smooth Scroll Navigation:** Enhances UX with seamless transitions.
-- **Lucide & React Icons:** Adds clean and modern UI elements.
-- **Multi-Page Website:** Navigate through different sections of the portfolio with ease.
-- **Multi-Language Support:** The portfolio is structured to support multiple languages, enabling a wider reach.
 
 ## UX/UI
 
 - **Minimalist Design:** A clean, professional aesthetic for readability and focus.
-- **Compact, Collapsible Menu:** Keeps navigation intuitive and unobtrusive.
 - **Structured Information Flow:** Ensures clarity in presenting skills and work approach.
 - **Interactive Project Showcase:** Enables recruiters to explore projects effortlessly.
 
