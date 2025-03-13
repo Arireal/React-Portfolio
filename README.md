@@ -11,12 +11,14 @@
 ## Overview:
 
 This React portfolio is a dynamic showcase of my work, technical skills, and professional insights, designed to provide an interactive and visually appealing experience. The project leverages React, Tailwind CSS, and grid-based organization to create a dashboard-like layout with smooth navigation. It also uses React hooks, such as useState, to manage dynamic content updates and enhance user interactions.
-
+ It features a dark mode/light mode toggle, allowing users to customize the viewing experience based on their preference.
 ![rthumb](https://github.com/user-attachments/assets/6314d9da-0284-4ecc-bc60-4760fa6c7ed3)
 ![light-mode](https://github.com/user-attachments/assets/6300a080-cfa8-40ae-9351-50582eee4654)
 
 
 ## Features:
+- **Dark Mode/Light Mode Toggle:**
+ Implemented a toggle feature allowing users to switch between dark and light modes for personalized viewing. This not only enhances user experience but also demonstrates my ability to create interactive, user-friendly features.
 - **Dashboard-Style UI:**
 A structured layout for easy navigation, with sections for projects, skills, and personal insights.
 
