@@ -1,61 +1,79 @@
-# React Portfolio
+# Modular Portfolio
 
-**Role:** Full Stack Developer, UX/UI  
-**Highlights:** A React-based portfolio showcasing selected projects.
+**Role:** Frontend Developer UX/UI  
+**Date:** 2025  
+**Live Website:** [See the live website](https://www.arianesouza.com)  
+**GitHub Repository:** [See the code](https://github.com/Arireal/React-Portfolio)
 
 ## Tech Stack:
-- **Frontend**: React, Tailwind CSS, Grid UI, React Hooks (useState)
-- **Design & UX**: UX/UI Design, Mobile-First Approach
-- **Other**: Recharts, React Icons
+- **Frontend**: React, Next.js, React Router, GSAP, Tailwind CSS, Framer Motion, React Hooks (useState)
+- **Design & UX**: UX/UI Design, Dark Mode/Light Mode
+- **Other**: Lucide Icons, React Icons, Recharts
 
 ## Overview:
 
-This React portfolio is a dynamic showcase of my work, technical skills, and professional insights, designed to provide an interactive and visually appealing experience. The project leverages React, Tailwind CSS, and grid-based organization to create a dashboard-like layout with smooth navigation. It also uses React hooks, such as useState, to manage dynamic content updates and enhance user interactions.
- It features a dark mode/light mode toggle, allowing users to customize the viewing experience based on their preference.
-![rthumb](https://github.com/user-attachments/assets/6314d9da-0284-4ecc-bc60-4760fa6c7ed3)
-![light-mode](https://github.com/user-attachments/assets/6300a080-cfa8-40ae-9351-50582eee4654)
+This **Modular Portfolio** is a **React-based website** designed to showcase my frontend and **UX/UI design** projects. The site is built using **React**, **Next.js**, and **Tailwind CSS**, and features a grid-based layout with dynamic content. The project uses **React Router** for seamless navigation between pages and incorporates **GSAP** and **Framer Motion** for smooth animations and transitions. It is highly modular, allowing easy updates with minimal effort.
+
+Key features include:
+- A **dark mode/light mode toggle**, giving users the ability to customize their viewing experience.
+- A **dashboard-style layout**, allowing for an interactive and well-organized showcase of projects, skills, and personal insights.
+- **Lucide and React Icons** for modern and clean UI elements.
+
+![folio-gif](https://github.com/user-attachments/assets/ce18570a-166a-43f1-b313-12b471f15953)
+
+---![new-thumbr2](https://github.com/user-attachments/assets/31491281-f372-4016-97e8-c2e75aca7bc5)
 
 
 ## Features:
-- **Dark Mode/Light Mode Toggle:**
- Implemented a toggle feature allowing users to switch between dark and light modes for personalized viewing. This not only enhances user experience but also demonstrates my ability to create interactive, user-friendly features.
-- **Dashboard-Style UI:**
-A structured layout for easy navigation, with sections for projects, skills, and personal insights.
+- **Modular Design:**  
+  Ensures high modularity with reusable components, making it easy to update and extend the portfolio as new projects and sections are added.
 
-- **Responsive Design:**
-Built using Tailwind CSS for a modern and sleek look that adapts to all screen sizes.
+- **Dark Mode/Light Mode Toggle:**  
+  Allows users to toggle between dark and light themes for a personalized viewing experience.
 
-- **React-Based Grid Layout:**
-Organizes content efficiently using a grid system for improved structure and usability.
+- **React Hooks (useState):**  
+  Utilized React hooks like `useState` to manage the state of dynamic components, improving the interactivity and responsiveness of the app.
 
-- **Smooth Scroll Navigation:**
-Enables users to transition seamlessly between sections of the portfolio.
+- **Tailwind CSS:**  
+  Used for a modern, sleek, and responsive design that adapts beautifully to all screen sizes.
 
-- **React Hooks (useState):**
-Handles dynamic component states for a more interactive experience, including managing collapsible menu states and project interactions.
+- **Smooth Scroll Navigation:**  
+  Implemented smooth scroll navigation for fluid transitions between sections, optimizing user interaction.
 
-- **Interactive Project Showcase:**
-Provides easy access to project details, allowing recruiters to explore my work effortlessly.
+- **Lucide & React Icons:**  
+  Clean and modern UI elements that add to the visual appeal.
 
-- **Lucide & React Icons:**
-Adds clean, modern UI elements for an engaging visual experience.
+- **Recharts Integration:**  
+  Displays skills and technical knowledge in an engaging, visual format.
 
-- **Recharts Integration:**
-Displays my skills and technical abilities in a visual, interactive way.
-
-[See the live website](https://www.arianesouza.com)  
-
-
-## UX/UI
-
-- **Minimalist Design:** A clean, professional aesthetic for readability and focus.
-- **Structured Information Flow:** Ensures clarity in presenting skills and work approach.
-- **Interactive Project Showcase:** Enables recruiters to explore projects effortlessly.
+- **GSAP & Framer Motion Animations:**  
+  Integrated smooth animations to improve the user experience and add visual appeal.
 
 ---
 
-### Getting Started
+## UX/UI:
+
+- **Minimalist Design:**  
+  A clean, professional aesthetic for readability and focus.
+
+- **Structured Information Flow:**  
+  Ensures clarity in presenting skills and work approach.
+
+- **Interactive Project Showcase:**  
+  Allows easy exploration of my projects, skills, and work approach, with a simple and intuitive layout.
+
+---
+
+## Getting Started:
 
 1. Clone the repository:
    ```bash
    git clone https://github.com/Arireal/React-Portfolio.git
+   cd React-Portfolio
+2. Install dependencies:
+3. ```bash
+   npm install
+4. Run the development server:
+```bash
+   npm run dev
+
